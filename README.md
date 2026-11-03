@@ -8,11 +8,7 @@ Tenho interesse em desenvolvimento de software, tecnologia, infraestrutura e aut
 
  🚀 Atualmente estudando
 
-- Linguagens: C++, C#, Lua e SQL
-- Banco de dados e consultas SQL
-- Linux e infraestrutura de sistemas
-- Ferramentas: Git e GitHub
-- Desenvolvimento de scripts e automações com Lua
+<img src="https://skillicons.dev/icons?i=cpp,cs,lua,mysql,postgres,linux,ubuntu,git,github" />
 
  🎯 Objetivos
 
