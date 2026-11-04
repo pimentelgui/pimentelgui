@@ -27,8 +27,22 @@ Tenho interesse em desenvolvimento de software, tecnologia, infraestrutura e aut
 
  📫 Contato
 
-- GitHub: [@pimentelgui](https://github.com/pimentelgui)
-- LinkedIn: [Guilherme Pimentel](https://www.linkedin.com/in/guilherme-pimentel-4103261a5/)
+```html
+<p align="left">
+  <a href="https://github.com/pimentelgui">
+    <img src="https://img.shields.io/badge/GitHub-pimentelgui-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/guilherme-pimentel-4103261a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Pimentel-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/gui_pimenteel_/">
+    <img src="https://img.shields.io/badge/Instagram-gui__pimenteel__-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:pimenteldemelloguilherme@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Enviar%20email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+```
 
 
 
