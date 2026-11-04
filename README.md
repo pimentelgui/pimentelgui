@@ -27,8 +27,7 @@ Tenho interesse em desenvolvimento de software, tecnologia, infraestrutura e aut
 
  📫 Contato
 
-```html
-<p align="left">
+ <p align="left">
   <a href="https://github.com/pimentelgui">
     <img src="https://img.shields.io/badge/GitHub-pimentelgui-181717?style=flat&logo=github&logoColor=white"/>
   </a>
@@ -42,7 +41,6 @@ Tenho interesse em desenvolvimento de software, tecnologia, infraestrutura e aut
     <img src="https://img.shields.io/badge/Gmail-Enviar%20email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
-```
 
 
 
