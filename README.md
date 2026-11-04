@@ -17,6 +17,12 @@ Tenho interesse em desenvolvimento de software, tecnologia, infraestrutura e aut
 - Aprimorar minhas habilidades técnicas e de resolução de problemas.
 - Compartilhar minha evolução e meus aprendizados na comunidade.
 
+ <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimentelgui&layout=compact&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pimentelgui&show_icons=true&theme=radical&hide_border=true"/>
+</div>
+
+
  📫 Contato
 
 - GitHub: [@pimentelgui](https://github.com/pimentelgui)
