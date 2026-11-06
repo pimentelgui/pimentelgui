@@ -43,6 +43,11 @@ Tenho interesse em desenvolvimento de software, tecnologia, infraestrutura e aut
 </p>
 
 
+<a href="https://pimentelgui.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_MEU_PORTFÓLIO-ACESSAR-2563EB?style=for-the-badge" alt="Meu Portfólio">
+</a>
+
+
 
 
 ---
